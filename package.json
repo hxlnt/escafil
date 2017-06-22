@@ -23,4 +23,5 @@
     "serialport": "^4.0.7",
     "web-audio-api": "^0.2.2"
   }
+  "engines":{"node":"6.0.0"}
 }
